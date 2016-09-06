@@ -1,0 +1,1 @@
+tow kinds of reducing dimmension method: LDA && PCA
